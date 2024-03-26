@@ -1,0 +1,85 @@
+/**/
+h1{
+    color: brown;
+}
+/*selector de tipos*/
+body{
+    font-family: arial;
+}
+
+h2{
+    color: rgb(42, 73, 62);
+    font-style: italic;
+}
+
+h3{
+    color: blue;
+    font-style: italic;
+}
+
+/* li{
+    font-size: 20px;
+    list-style: square;
+} */
+
+ul li{
+    font-size: 20px;
+    list-style: circle;
+}
+
+.section > ul{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.subtitle{
+    text-align: center;
+    background-color: darkslategrey;
+    color: antiquewhite;
+}
+/*El # es para identificar elementos id*/
+
+#title{
+background-color: blueviolet;
+color: aliceblue;
+padding: 20px 10px;
+font-family: cursive;
+}
+
+/*Selectores Combinadores*/
+
+/*Combinador descendientes*/
+ 
+.section h3{
+    background-color: rgb(164, 19, 38);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.de{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  
+    padding: 0px 50px;
+/*y,x*/
+
+    border-radius: 20px;
+    
+
+    font: size 10px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+   
+
+
+
+ 
+    bor
+
+}
